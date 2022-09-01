@@ -1,2 +1,2 @@
 #!/bin/bash
-u=w, gu=x, a=r
+chmod u=wrx, g=rx, o=r hello
