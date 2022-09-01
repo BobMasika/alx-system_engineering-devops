@@ -1,2 +1,2 @@
 #!/bin/bash
-u=rx , g=rx, o=r, u=w
+chmod u=rx , chmod g=rx, chmod o=r, chmod u=w
