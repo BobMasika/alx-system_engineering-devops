@@ -1,2 +1,2 @@
 #!/bin/bash
-ug=rx, o=r
+chmod ug+x betty, chmod ug+r betty, chmod o+r betty
