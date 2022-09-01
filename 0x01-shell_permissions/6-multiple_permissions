@@ -1,2 +1,2 @@
 #!/bin/bash
-u=rx, g=rx, o=r
+a+r, gu=x, u+w
